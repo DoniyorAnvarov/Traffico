@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'DMSerifDisplay-Italic';
+    src: url(../fonts/DM-Serif-Display/DMSerifDisplay-Italic.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DMSerifDisplay-Regular';
+    src: url(../fonts/DM-Serif-Display/DMSerifDisplay-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Rubik-Bold';
+    src: url(../fonts/Rubik/Rubik-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Rubik-SemiBold';
+    src: url(../fonts/Rubik/Rubik-SemiBold.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Rubik-Light';
+    src: url(../fonts/Rubik/Rubik-Light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+}
